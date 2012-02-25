@@ -1,0 +1,1 @@
+Combined the paper.js division raster example with node.  Now, moving the mouse on the page divison rasters the image for all connected users.
